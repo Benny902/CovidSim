@@ -1,0 +1,6 @@
+City;Ashdod;10;10;90;50;1000
+City;Beer-Sheva;130;100;80;80;1200
+Moshav;Gevim;30;120;10;20;300
+#;Ashdod;Gevim
+#;Beer-Sheva;Ein-Gedi
+Kibbutz;Ein-Gedi;250;50;50;50;500
